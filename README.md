@@ -1,9 +1,3 @@
-
-<div align="right">
-  
-  ![](https://gh-hits.nomadcoders.workers.dev/view?username=dohae-kim22)
-</div>
-
 <div align="center">
   <h2>Hi, I'm Do-Hae 🧑🏻‍💻</h2>
   <p>"I like bringing innovative ideas to life through code and continuously growing my skills along the way."</p>
