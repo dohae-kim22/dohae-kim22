@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hi, I'm Do-Hae 🧑🏻‍💻</h2>
-  <p>Frontend developer passionate about building high-performance, user-friendly applications.<br/>🤍 I love turning ideas into reality through clean, scalable code!</p>
+  <p>"I’m a frontend developer passionate about building innovative, high-performance applications with clean, scalable code!"</p>
 
   <br/>
 
