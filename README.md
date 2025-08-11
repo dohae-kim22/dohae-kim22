@@ -55,5 +55,5 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/do-hae-kim/)
 
   <br/><br/>
-
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dohae-kim22.dohae-kim22&left_color=mediumpurple&right_color=darkslateblue"  />
 </div>
